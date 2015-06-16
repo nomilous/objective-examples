@@ -1,6 +1,6 @@
 # objective-examples
 
-Some objective examples.
+Some [objective][1] examples.
 
 
 ```bash
@@ -10,3 +10,4 @@ Some objective examples.
 objective --root coffee/objective
 
 ```
+[1]:https://github.com/nomilous/objective
