@@ -5,7 +5,7 @@ objective 'Sustain a furious rate',
         if e?
 
             console.log '\nFAILED:', e.toString()
-            process.exit e.code || 1
+            process.exit e.errno || 1
 
 
 
@@ -24,7 +24,7 @@ objective 'Sustain a furious rate',
 #   function(e, every, two, second, seconds, have, some, coffee) {
 #     if (e) {
 #       console.log('\nFAILED:', e.toString());
-#       process.exit(e.code || 1);
+#       process.exit(e.errno || 1);
 #     }
 # 
 #     have(some(coffee(every(two(seconds)))));
