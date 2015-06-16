@@ -1,10 +1,11 @@
 # objective-examples
 
-Some objective examples.<br />
+Some objective examples.
 
-`sudo``npm install objective -g`
 
 ```bash
+
+# sudo npm install objective -g
 
 objective --root coffee/objective
 
