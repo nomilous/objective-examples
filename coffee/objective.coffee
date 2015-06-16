@@ -14,7 +14,17 @@ objective 'Sustain a furious rate',
 
         have some coffee every two seconds
 
-
+#
+# Output
+# ------
+# objective --root coffee/objective
+#
+# caffeinator> Have a cup of Premium Gourmet-Blue Ultra Alternate Select
+# Have a cup of Premium Gourmet-Blue Ultra Alternate Select
+# Have a cup of Premium Gourmet-Blue Ultra Alternate Select
+# 
+# (^C again to quit)
+# 
 
 #
 # Equivalent javascript
