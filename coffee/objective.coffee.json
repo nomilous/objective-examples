@@ -1,0 +1,13 @@
+{
+  "codename": "caffeinator",
+  "uuid": "0a33e460-f06d-4c2c-8976-91caf4852169",
+  "description": "pending description",
+  "repl": {
+    "listen": "/tmp/socket-0a33e460-f06d-4c2c-8976-91caf4852169"
+  },
+  "plugins": {
+    "./caffeinator": {
+       "coffeeType": "Premium Gourmet-Blue Ultra Alternate Select"
+    }
+  }
+}
