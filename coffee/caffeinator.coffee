@@ -4,7 +4,7 @@ myConfigs = {} # multiple objective roots could be calling inject,
                # only inject for roots that create()d this plugin.
 
 
-module.exports.create = (root, config, callback) ->
+module.exports.$$createInstance = (root, config, callback) ->
     
     # console.log root
     # console.log config
