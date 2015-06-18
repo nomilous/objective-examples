@@ -1,4 +1,4 @@
-# objective-examples
+# objective_examples
 
 Some [objective][1] examples.
 
